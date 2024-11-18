@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Semestres - Fernando Casas Gómez</title>
+</head>
+<body>
+  <header>
+    <h1>Lista de Semestres</h1>
+  </header>
+  <section>
+    <p>Selecciona un semestre para ver los detalles:</p>
+    <ul>
+      <li><a href="semestre1.html">1° Semestre</a></li>
+      <li><a href="semestre2.html">2° Semestre</a></li>
+      <li><a href="semestre3.html">3° Semestre</a></li>
+    </ul>
+  </section>
+</body>
+</html>
