@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2° Semestre - Fernando Casas Gómez</title>
+</head>
+<body>
+  <header>
+    <h1>2° Semestre</h1>
+  </header>
+  <section>
+    <p>Materias del segundo semestre:</p>
+    <ul>
+      <li>Comunicación 2</li>
+      <li>Intrdución a la filosofía</li>
+      <li>Apreciación musical</li>
+      <li>Álgebra y geometría</li>
+      <li>Derecho empresarial</li>
+      <li>Fundamentos de marketing</li>
+      <li>Pensamiento crítico</li>
+    </ul>
+    <p><a href="pagina1.html">Regresar a la lista de semestres</a></p>
+  </section>
+</body>
+</html>
