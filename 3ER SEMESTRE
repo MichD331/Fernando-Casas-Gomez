@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3° Semestre - Fernando Casas Gómez</title>
+</head>
+<body>
+  <header>
+    <h1>3° Semestre</h1>
+  </header>
+  <section>
+    <p>Materias del tercer semestre:</p>
+    <ul>
+      <li>Atropología</li>
+      <li>Lógica y argumentación</li>
+      <li>Apreciación srtistica</li>
+      <li>Cálculo en 1 variable</li>
+      <li>Análisis de datos 1</li>
+      <li>Análisis financiero</li>
+      <li>Comportamiento del consumidor</li>
+    </ul>
+    <p><a href="pagina1.html">Regresar a la lista de semestres</a></p>
+  </section>
+</body>
+</html>
